@@ -33,5 +33,3 @@
 
 * **LinkedIn:** [linkedin.com/in/sahil-bhowad-7a915934a](https://www.linkedin.com/in/sahil-bhowad-7a915934a)
 * **Email:** sahilbhowad.co@gmail.com
-
-
