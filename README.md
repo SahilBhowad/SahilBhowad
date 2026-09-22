@@ -4,7 +4,7 @@
 * 🔍 Currently building end-to-end analytics projects (e-commerce, logistics, retail).
 * 🎯 Looking for Data Analyst / BI internship opportunities.
 
-**Reach me:** https://www.linkedin.com/in/sahil-bhowad-7a915934a | sahilbhowad.co@gmail.com
+**Reach me:** linkedin.com/in/sahil-bhowad-7a915934a | sahilbhowad.co@gmail.com
 
 ---
 
@@ -18,3 +18,20 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/) 
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 1. **[Banking Loan Default Risk Analysis](https://github.com/SahilBhowad/banking-loan-default-risk-analytics)** | Ingested 255K+ records ($32.5B+ exposure) using SSMS & Power BI Dataflows. Built advanced DAX measures to analyze underwriting risk, uncovering that co-signers reduce default risk by 1.47% and young adults face a 22.14% default rate vs 5.13% in seniors. | SQL Server, Power BI, DAX, Dataflows |identifying root causes | SQL, Python, Power BI |
+| 2. [E-Commerce Delivery Analytics](link) | Analyzed 50K+ orders to cut late-delivery rate by identifying root causes | SQL, Python, Power BI |
+---
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/sahil-bhowad-7a915934a](https://www.linkedin.com/in/sahil-bhowad-7a915934a)
+* **Email:** sahilbhowad.co@gmail.com
+
+
