@@ -4,8 +4,10 @@
 * 🔍 Currently building end-to-end analytics projects (e-commerce, logistics, retail).
 * 🎯 Looking for Data Analyst / BI internship opportunities.
 
-**Reach me:** [linkedin.com/in/sahil-bhowad-7a915934a](https://www.linkedin.com/in/sahil-bhowad-7a915934a) | sahilbhowad.co@gmail.com
+#### 📫 Connect With Me
 
+* **LinkedIn:** [linkedin.com/in/sahil-bhowad-7a915934a](https://www.linkedin.com/in/sahil-bhowad-7a915934a)
+* **Email:** sahilbhowad.co@gmail.com
 ---
 
 ### 🛠️ Tech Stack
@@ -29,7 +31,4 @@
 | **[E-Commerce Delivery Analytics](link)** | Analyzed 50K+ orders to identify root causes of delivery delays and cut late-delivery rate | SQL, Python, Power BI |
 ---
 
-### 📫 Connect With Me
-
-* **LinkedIn:** [linkedin.com/in/sahil-bhowad-7a915934a](https://www.linkedin.com/in/sahil-bhowad-7a915934a)
-* **Email:** sahilbhowad.co@gmail.com
+### Currently open to internships.
