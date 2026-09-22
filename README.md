@@ -4,7 +4,7 @@
 * 🔍 Currently building end-to-end analytics projects (e-commerce, logistics, retail).
 * 🎯 Looking for Data Analyst / BI internship opportunities.
 
-**Reach me:** linkedin.com/in/sahil-bhowad-7a915934a | sahilbhowad.co@gmail.com
+**Reach me:** [linkedin.com/in/sahil-bhowad-7a915934a](https://www.linkedin.com/in/sahil-bhowad-7a915934a) | sahilbhowad.co@gmail.com
 
 ---
 
