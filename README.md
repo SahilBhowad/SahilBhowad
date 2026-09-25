@@ -28,7 +28,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | **[Banking Loan Default & Risk Analysis](https://github.com/SahilBhowad/banking-loan-default-risk-analytics)** | Analyzed 255K+ borrowers ($32.5B+ exposure) to identify underwriting risk factors — found co-signers cut default risk by 1.47%, young borrowers default at 4x the rate of seniors | SQL Server, Power BI, DAX |
-| **[E-Commerce Delivery Analytics](link)** | Analyzed 50K+ orders to identify root causes of delivery delays and cut late-delivery rate | SQL, Python, Power BI |
+| **[E-Commerce Delivery Analytics]([link](https://github.com/SahilBhowad/ecommerce-delivery-bottleneck-analysis))** | Analyzed 50K+ orders to identify root causes of delivery delays and cut late-delivery rate | SQL, Python, Power BI |
 ---
 
 ### Currently open to internships.
