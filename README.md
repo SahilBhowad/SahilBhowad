@@ -28,8 +28,8 @@
 | Project | Description | Tools |
 |---|---|---|
 | **[Statistical Analysis of Developer Pay and Job Satisfaction](https://github.com/SahilBhowad/statistical-analysis-developer-pay-job-satisfaction)** | Tested whether work setup is linked to pay and satisfaction across 18,153 Stack Overflow survey responses — remote developers earn 82% more at the median ($95K vs $52K), narrowing to 38% inside the US | SQL Server, Python, Power BI |
+**[E-Commerce Delivery Analytics](https://github.com/SahilBhowad/ecommerce-delivery-bottleneck-analysis)** | Analyzed 50K+ orders to find what drives a 56% late-delivery rate — pinpointed a carrier and shipping-method route with a 77.6% late rate, plus warehouse bottlenecks | SQL Server, Python |
 | **[Banking Loan Default & Risk Analysis](https://github.com/SahilBhowad/banking-loan-default-risk-analytics)** | Built an automated pipeline (SQL Server → Power BI Dataflows → dashboard) on 255K+ borrowers ($32.5B+ exposure) that picks up new loan data on refresh; found co-signers lower default by 1.47 percentage points and young borrowers default at over 4x the rate of seniors | SQL Server, Power BI Dataflows, DAX |
-| **[Banking Loan Default & Risk Analysis](https://github.com/SahilBhowad/banking-loan-default-risk-analytics)** | Analyzed 255K+ borrowers ($32.5B+ exposure) to identify underwriting risk factors — co-signers lower default by 1.47 percentage points, and young borrowers default at over 4x the rate of seniors | SQL Server, Power BI, DAX |
 
 ---
 
